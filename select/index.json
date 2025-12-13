@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ニアジョイ音頭",
+  "base_artist": "≒JOY",
+  "createdAt": "2025-12-13T05:29:53.772393Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ニアジョイ音頭",
+      "artist": "≒JOY",
+      "has_synced": false,
+      "path": "select/pl_01_ニアジョイ音頭_≒JOY.txt"
+    }
+  ]
+}
